@@ -1,3 +1,9 @@
+"""
+File contains function that are used for vector operations
+here a vector is a np array [x,y]
+Todo:
+    add support for z
+"""
 import numpy as np
 
 

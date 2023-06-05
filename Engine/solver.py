@@ -1,10 +1,12 @@
 """
-Solver file that contains the calculations for the engine
+Solver file that contains the calculations for the engine and all the objects
+this file involves functions that are used for the entier simulation.
 """
 import vector
 import time
 import numpy as np
 
+# gravity force
 G = np.array([0.0, 1.0])
 
 
